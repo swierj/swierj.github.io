@@ -9,7 +9,7 @@
 # Summary
 
 > Aspiring data analyst with strong communication and technical skills in GIS and web development.
->> Java, Python, R, HTML, CSS, JavaScript, SQL
+>> **Java, Python, R, HTML, CSS, JavaScript, SQL**
 
 # Work Experience
 
